@@ -1,4 +1,4 @@
-# Home Automation using NODE MCU,IFTTT and Google Assistant
+# Home Automation using NODE MCU,IFTTT(Google Assistant)
 
 This project is implemented using NodeMCU, 2Way Relay Switch, LM7805 Transistor, a breadboard, a veroboard, couple of jumper wires, multimeter, and as for the software implementations we have used google assistant, Arduino ide for the coding, IFTTT applet launcher and Adafruit IO for the Wi-Fi connectivity.
 
