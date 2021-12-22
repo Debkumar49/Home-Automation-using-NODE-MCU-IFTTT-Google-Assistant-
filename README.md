@@ -7,4 +7,4 @@ Our goal with this project is very simple yet useful that we have implemented ho
 From the google assistant we give voice recognition such as “turn on light/turn off light”. Then is responses “turning on/off light”. After that it connects with the IFTTT applet launcher which sends instructions through adafruit io to Node MCU wi-fi module (ESP8266)
 Which then connects to the relay and the relay works as a switch by turning the light on/off in terms of the instruction you give.
 
-Documentation of the project provided above.
+Documentation of the project provided above , Please Download the documentation provided.
